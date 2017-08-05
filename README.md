@@ -21,6 +21,16 @@ Fill in the proper details and click save <br>
 Managing Maids
 ---
 ### Adding a new maid
+To add a new maid, navigate to the dashboard tab
+<img width="308" alt="screen shot 2017-08-05 at 4 06 51 pm" src="https://user-images.githubusercontent.com/10573718/28994094-26d57560-79f8-11e7-848d-83c21ecaab19.png">
+
+Then click on the plus icon on the right of the screen
+<img width="827" alt="screen shot 2017-08-05 at 4 05 04 pm" src="https://user-images.githubusercontent.com/10573718/28994109-837b334a-79f8-11e7-8566-3774c1da7217.png">
+
+Fill in the appropriate information. When the group of information is correct, it will turn green.
+![yellow-green](https://user-images.githubusercontent.com/10573718/28994347-71cc6762-79fe-11e7-8a9b-6e58e919d6c7.jpg)
+
+
 ### Editing a maid
 ### Mass Sending of Email
 ### Reset Maid Booking 
